@@ -49,7 +49,7 @@
     return arr.filter((val,index)=> val)
     }
     console.log(fun(data))
-
+    
 - truncate a string
     const data='Absolute victory'
 
