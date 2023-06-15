@@ -3,7 +3,7 @@
 - Hi I'm Ravikumar Srinivasan is full stack developer for MERN and .NET.
 - I have own Laptop and good internet connection (CORE I7 vPro 8th Gen (16GB RAM)).
 - I'm in linkedin , stackoverflow and personal website domain expired.
-- 
+- machine language
 - I used Visual Studio,VS Code,Node js ,Mongodb,MSSQL,Sqldeveloper,Android Studio and Github
 - I used Windows 11 OS 64 bit.
 - I'm both frontend and backend developer.
